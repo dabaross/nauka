@@ -1,3 +1,4 @@
+ 
 def podwojne_punkty(func):
     def wrapper(self, ilosc_punktow):
         ilosc_punktow += ilosc_punktow

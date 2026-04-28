@@ -17,7 +17,6 @@ class Ekspres:
         pass
 
 
-
 ekspres = Ekspres("delonghi")
 print(ekspres.parz_kawe("Premium", 10))
 print(ekspres.parz_kawe("Zajebista", 1))
